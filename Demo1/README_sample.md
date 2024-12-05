@@ -16,12 +16,11 @@ FantasyAppは、架空のプログラムとして開発されたデモ用アプ�
 インストール方法  
    
 ・リポジトリをクローンします。  
-   git clone https://github.com/kanazawazawa/ghcbws-demo.git  
+
 ・必要な依存関係をインストールします。  
-   cd FantasyApp  
-   npm install  
+
 ・アプリケーションを起動します。  
-   npm start  
+
    
 使用方法   
 ・アプリケーションを起動後、ログイン画面でアカウントを作成またはログインします。  
@@ -40,11 +39,11 @@ FantasyAppは、架空のプログラムとして開発されたデモ用アプ�
    
 ・リポジトリをフォークします。  
 ・新しいブランチを作成します。  
-   git checkout -b feature/AmazingFeature  
+
 ・変更をコミットします。  
-   git commit -m 'Add some AmazingFeature'  
+
 ・ブランチにプッシュします。  
-   git push origin feature/AmazingFeature  
+
 ・プルリクエストをオープンします。  
    
 ライセンス  
