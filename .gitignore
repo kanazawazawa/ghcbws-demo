@@ -4,6 +4,7 @@
 
 # Node.js モジュール
 /node_modules
+**/node_modules
 
 # 環境変数ファイル
 .env
