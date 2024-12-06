@@ -1,0 +1,24 @@
+# ビルド出力
+/dist
+/build
+
+# Node.js モジュール
+/node_modules
+
+# 環境変数ファイル
+.env
+
+# ログファイル
+*.log
+
+# 一時ファイル
+/tmp
+/temp
+
+# IDE 設定
+.vscode/
+.idea/
+
+# OS 固有のファイル
+.DS_Store
+Thumbs.db
