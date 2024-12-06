@@ -20,6 +20,11 @@ GitHub Copilot に下記を指示してください
 べき乗の計算を追加して  
 平方根の計算を追加して  
 
+例
+Ask Copilot @workspace べき乗の計算とボタンを追加したい。変更すべきファイルは？
+指定されたファイルを開く
+Edit with Copilot べき乗の計算を追加して
+
 ## ユニットテストの実行
 Exercise2 のディレクトリに移動
 ```bash
