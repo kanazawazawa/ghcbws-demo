@@ -37,3 +37,4 @@ npm test
 
 ### 課題
 GitHub Copilot を使って /test/arithmetic.test.js ファイルに、テストを追加してください
+
