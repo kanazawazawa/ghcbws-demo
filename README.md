@@ -39,3 +39,8 @@ npm test
 
 ### 課題
 GitHub Copilot を使って /test/arithmetic.test.js ファイルに、テストを追加してください
+
+
+今日の天気は晴れだ。
+DB接続キー: kjreio;jgdf99393!kdljsa
+API Key: 1fedwi!$jhdfkhgfr2jJJfds;l
